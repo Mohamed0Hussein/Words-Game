@@ -24,7 +24,7 @@ To get started with the project, follow these steps:
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/your-username/react-game.git
+   git clone https://github.com/Mohamed0Hussein/Words-Game
    ```
 
 2. Install the dependencies:
