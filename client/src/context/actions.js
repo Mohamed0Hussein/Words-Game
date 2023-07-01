@@ -1,0 +1,9 @@
+export const START_GAME = 'START_GAME'
+export const SET_USER_NAME = 'SET_USER_NAME'
+export const FETCH_WORDS = 'FETCH_WORDS'
+export const USER_ANSWERED = 'USER_ANSWERED'
+export const INCREMENT_ROUND = 'INCREMENT_ROUND'
+export const INCREMENT_SCORE = 'INCREMENT_SCORE'
+export const GAME_FINISHED = 'GAME_FINISHED'
+export const SET_RANK = 'SET_RANK'
+

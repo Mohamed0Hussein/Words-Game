@@ -1,0 +1,16 @@
+div.card{
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    justify-content: center;
+    border: 2px black solid;
+    margin: 5px;
+
+}
+.main{
+
+    margin: 5px;
+}
+button{
+    border-radius:0 !important;
+}
